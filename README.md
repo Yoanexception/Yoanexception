@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yoanexception
-- 👀 I’m interested in DART
+- 👀 I’m interested in DART 🎯
 - 🌱 I’m currently learning Vue and AWS
 - 📫 How to reach me pro.pettorelli.yoan@gmail.com
 
